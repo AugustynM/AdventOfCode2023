@@ -1,0 +1,8 @@
+[workspace]
+members = ["day01_1", "day01_2"]
+resolver = "2"
+
+[workspace.package]
+authors = ["Augustyn Majtyka"]
+description = "Advent of Code 2023"
+version = "0.1.0"
